@@ -16,4 +16,4 @@ This can be a neat trick to expose detail hidden near the centre of a polar plot
 
 ![Face before and after inversion](abbeylee_before_and_after.png)
 
-[Code in the notebook](Complex Inversion.ipynb). Have fun!
+The code is [in the notebook](Complex%20Inversion.ipynb). Have fun!
